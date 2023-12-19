@@ -1,5 +1,5 @@
 # Purchase-Order-Management-System-POM-
-A Java application applying OOP techniques to manage Purchase Requisition (PR) and Purchase Order (PO) using NetBeans IDE.
+A Java application applying OOP techniques to manage Purchase Requisition (PR) and Purchase Order (PO) using NetBeans IDE
 
 Functionalities:
 Add Item:
